@@ -30,7 +30,7 @@
 
 ## Support
 
-I do need **support** from amazing people like you as I started posting on **[My Linkedin](linkedin.com/in/muhammad-hassan-ullah)** and want each one of you to checkout **[My Linkedin](linkedin.com/in/muhammad-hassan-ullah)** Profile where I post amazing content related to Programming & Web Development 🚀
+I do need **support** from amazing people like you as I started posting on **[My Linkedin](https://www.linkedin.com/in/muhammad-hassan-ullah/)** and want each one of you to checkout **[My Linkedin](https://www.linkedin.com/in/muhammad-hassan-ullah/)** Profile where I post amazing content related to Programming & Web Development 🚀
 
 <a href="linkedin.com/in/muhammad-hassan-ullah">
 <div align="center">
@@ -779,12 +779,12 @@ If you like this project then give it a **Github** star by pressing the **Star**
 
 ## Author 👨‍💻
 
-- **Muhammad Hassan Ullah** - **[Linkedin](https://www.linkedin.com/in/muhammad-hassan-ullah)**, **[Twitter](https://twitter.com/hassanullah)**, **[Github](https://github.com/hassan-ullah)**, **[Portfolio](https://hassan.com)**  
+- **Muhammad Hassan Ullah** - **[Linkedin](https://www.linkedin.com/in/muhammad-hassan-ullah/)**, **[Twitter](https://twitter.com/hassanullah)**, **[Github](https://github.com/hassan-ullah)**, **[Portfolio](https://hassan.com)**  
 
 <br>
 
 #### Note: 
-I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://www.linkedin.com/in/muhammad-hassan-ullah)** or my email id **hassanullah.dev@gmail.com** 🙌
+I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://www.linkedin.com/in/muhammad-hassan-ullah/)** or my email id **hassanullah.dev@gmail.com** 🙌
 
 
 <br>
