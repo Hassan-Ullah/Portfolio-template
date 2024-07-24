@@ -1,4 +1,4 @@
-# Dopefolio 🔥
+![image](https://github.com/user-attachments/assets/998aa17b-f7ab-49ca-97c4-a325e2cf6b6f)# Dopefolio 🔥
 
 ## A Blazing Fast Multipage Portfolio Template for Developers 🚀
 
@@ -779,12 +779,12 @@ If you like this project then give it a **Github** star by pressing the **Star**
 
 ## Author 👨‍💻
 
-- **Ram Maheshwari** - **[Linkedin](https://linkedin.com/in/rammcodes)**, **[Twitter](https://twitter.com/rammcodes)**, **[Github](https://github.com/rammcodes)**, **[Portfolio](https://rammaheshwari.com)**  
+- **Muhammad Hassan Ullah** - **[Linkedin](https://www.linkedin.com/in/muhammad-hassan-ullah)**, **[Twitter](https://twitter.com/hassanullah)**, **[Github](https://github.com/hassan-ullah)**, **[Portfolio](https://hassan.com)**  
 
 <br>
 
 #### Note: 
-I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://linkedin.com/in/rammcodes)** or my email id **rammcodes@gmail.com** 🙌
+I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://www.linkedin.com/in/muhammad-hassan-ullah)** or my email id **hassanullah.dev@gmail.com** 🙌
 
 
 <br>
