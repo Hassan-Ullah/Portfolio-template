@@ -93,7 +93,7 @@ From your command line, first clone Dopefolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rammcodes/dopefolio
+$ git clone https://[https://github.com/Hassan-Ullah/Portfolio-template]
 
 # Go into the repository
 $ cd dopefolio
